@@ -2,5 +2,4 @@
 # passed into it and defaults to meat.
 
 def meal_choice(name = "meat", 10)
-  puts #{name}
 end 
